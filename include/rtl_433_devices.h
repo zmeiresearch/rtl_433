@@ -142,7 +142,8 @@
     DECL(tfa_303196) \
     DECL(rubicson_48659) \
     DECL(holman_ws5029) \
-
+    DECL(vw_mqb_remote) \
+	
     /* Add new decoders here. */
 
 #define DECL(name) extern r_device name;

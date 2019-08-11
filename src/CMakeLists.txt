@@ -132,6 +132,7 @@ add_executable(rtl_433
 	devices/ts_ft002.c
 	devices/ttx201.c
 	devices/vaillant_vrt340f.c
+	devices/vw_mqb_remote.c
 	devices/waveman.c
 	devices/wg_pb12v1.c
 	devices/wssensor.c
